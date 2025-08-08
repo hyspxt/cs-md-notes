@@ -1,3 +1,3 @@
 # cs-md-notes
 
-this is a test
+i've migrated to obsidian lol
