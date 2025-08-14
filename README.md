@@ -1,4 +1,4 @@
 **hys' notes**
 
-yo fine shy <3
-here 
+yo fellow reader, hope ur doing good <3
+here u will find my notes re
