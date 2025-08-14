@@ -11,7 +11,10 @@ Here you will find an ungodly amount of meme based on this formula:
 $$
 \text{tiredness + difficoult argument = + memes}
 $$
-Hope you won't get distracted, my only intention is to ease your reading 🫢! Additionally, notes will be taken in both italian and english, with no particular reason behind, if not the course a
+Hope you won't get distracted, my only intention is to ease your reading 🫢! Additionally, notes will be taken in both italian and english, with no particular reason behind, if not the courses topics themselves.
 
 Last thing, here you can find the repository for offline reading. Alternatively, I hosted my notes here. If you're reading this, you've probably you already know that, blep.
 
+---
+
+> cheers, hys :sun
