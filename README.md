@@ -17,7 +17,7 @@ Last thing, here you can find the repository for offline reading. Alternatively,
 
 ### **others**
 
-As said, these are notes
+As said, these are MSc notes. If you're interested in my Bachelor notes, look up in my notion here!
 
 ---
 
