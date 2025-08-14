@@ -5,4 +5,4 @@ here u will find my notes regarding my MSc degree in CS at Alma Mater Studiorum 
 
 ### **about the notes**
 
-I'm taking these notes with [obsidian](https://obsidian.md/). 
+I'm taking these notes with [obsidian](https://obsidian.md/). If you prefer a FOSS alternative I suggest you [Logseq](https://logseq.com/). Unfort
