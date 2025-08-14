@@ -17,4 +17,4 @@ Last thing, here you can find the repository for offline reading. Alternatively,
 
 ---
 
-> cheers, hys 
+> cheers, hys 🫶
