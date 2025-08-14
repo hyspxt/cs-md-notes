@@ -11,4 +11,4 @@ Here you will find an ungodly amount of meme based on this formula:
 $$
 \text{tiredness + difficoult argument = + memes}
 $$
-Hope you won't get dist
+Hope you won't get distracted, my only intention is to ease your reading 🫢!
