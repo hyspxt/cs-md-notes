@@ -15,6 +15,10 @@ Hope you won't get distracted, my only intention is to ease your reading 🫢! A
 
 Last thing, here you can find the repository for offline reading. Alternatively, I hosted my notes here. If you're reading this, you've probably you already know that, blep.
 
+### **others**
+
+As said, these are notes
+
 ---
 
 > cheers, hys 🫶
