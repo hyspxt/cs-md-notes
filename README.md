@@ -13,4 +13,4 @@ $$
 $$
 Hope you won't get distracted, my only intention is to ease your reading 🫢!
 
-Last thing, here you can find the repository for offline reading. I'm setting it 
+Last thing, here you can find the repository for offline reading. Alternatively, I hosted my notes here
