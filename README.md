@@ -7,4 +7,7 @@ here u will find my notes regarding my MSc degree in CS at Alma Mater Studiorum 
 
 I'm taking these notes with [obsidian](https://obsidian.md/). If you prefer a FOSS alternative I suggest you [Logseq](https://logseq.com/). I tried it some time ago and it's rocks! Unluckily, for my purposes I still find Obsidian a bit more complete and tunable :(. But never say never!
 
-Here you will find an absurd amount of meme based on this 
+Here you will find an absurd amount of meme based on this formula:
+$$
+\text{tiredness }
+$$
