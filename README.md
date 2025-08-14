@@ -5,3 +5,4 @@ here u will find my notes regarding my MSc degree in CS at Alma Mater Studiorum 
 
 ### **about the notes**
 
+I'm taking these notes with [obsidian](https://obsidian.md/).
