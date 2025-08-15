@@ -15,7 +15,7 @@ tiredness + difficoult argument = + memes
 
 Hope you won't get distracted, my only intention is to ease your reading 🫢! Additionally, notes will be taken in both italian and english, with no particular reason behind, if not the courses topics themselves.
 
-Last thing, here you can find the repository for offline reading. Alternatively, I hosted my notes here. If you're reading this, you've probably you already know that, blep.
+Last thing, [here](https://github.com/hyspxt/cs-md-notes) you can find the repository for offline reading. Alternatively, I hosted my [notes](https://hyspxt.github.io/md-notes/) here with [Quartz](https://quartz.jzhao.xyz/). If you're reading this, you've probably you already know that, blep.
 
 ### **others**
 
