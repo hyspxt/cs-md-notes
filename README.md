@@ -19,7 +19,7 @@ Last thing, [here](https://github.com/hyspxt/cs-md-notes) you can find the repos
 
 ### **others**
 
-As said, these are MSc notes. If you're interested in my Bachelor notes, look up in my notion here!
+As said, these are MSc notes. If you're interested in my Bachelor notes, look up in my notion [here](https://www.notion.so/hyspxt/Inter-Notion-e5ab19fb7d274f158a78949edefc63e6?source=copy_link)!
 
 ---
 
