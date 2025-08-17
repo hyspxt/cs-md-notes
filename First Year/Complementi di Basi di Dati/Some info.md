@@ -1,7 +1,7 @@
 
 
 > [!NOTE] Generali
-> The cours
+> The course is jointed
 
 
 ffjfj
