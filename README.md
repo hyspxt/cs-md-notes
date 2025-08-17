@@ -13,7 +13,7 @@ Here you will find an good amount of memes based on this formula:
 
 tiredness + difficoult argument = + memes
 
-Hope you won't get distracted, my only intention is to ease your reading 🫢! Additionally, notes will be taken in both italian and english, with no particular reason behind, if not the courses topics themselves. test
+Hope you won't get distracted, my only intention is to ease your reading 🫢! Additionally, notes will be taken in both italian and english, with no particular reason behind, if not the courses topics themselves.
 
 Last thing, [here](https://github.com/hyspxt/cs-md-notes) you can find the repository for offline reading. Alternatively, I hosted my [notes here](https://hyspxt.github.io/md-notes/) with [Quartz](https://quartz.jzhao.xyz/). If you're reading this, you've probably you already know that, blep.
 
