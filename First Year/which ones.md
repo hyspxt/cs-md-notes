@@ -8,4 +8,5 @@ sono esclusi i no categorici
 - [ ] **Lab di realtá virtuale e realtá aumentata**. Sembra duro come la roccia ma fattualmente spendibilitá vicina allo zero boh informarsi. Progetto medio-lungo pare.
 - [ ] **Simulazione di sistemi**. Informarsi perché non ho capito di che tratta. Comunque stesse modalitá di calcolo numerico. E infatti la prof é...
 - [ ] **Calcolo parallelo**. É piú HPC in realtá. Meh. Scritto (crocette!?)+ progetto.
-- [ ] Computer Vision. Orale-Articolo + Orale. Pare un esame lungo 
+- [ ] **Computer Vision**. Orale-Articolo + Orale. Pare un esame molto lungo e con molta teoria (in maniera sbilanciata rispetto al carico.
+- [ ] Mukl
