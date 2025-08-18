@@ -9,4 +9,4 @@ sono esclusi i no categorici
 - [ ] **Simulazione di sistemi**. Informarsi perché non ho capito di che tratta. Comunque stesse modalitá di calcolo numerico. E infatti la prof é...
 - [ ] **Calcolo parallelo**. É piú HPC in realtá. Meh. Scritto (crocette!?)+ progetto.
 - [ ] **Computer Vision**. Orale-Articolo + Orale. Pare un esame molto lungo e con molta teoria (in maniera sbilanciata rispetto al carico.
-- [ ] Mukl
+- [ ] **Multimedia Data Management**. Questo é d'ingegneria ma pare DAVVERO interessante.
