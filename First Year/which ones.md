@@ -1,6 +1,7 @@
 24 cfu inf/01
 sono esclusi i no categorici
 - [ ] **NLP** it's in english and could be only project + discussion
+- [ ] **Architetture Software a Microservizi**. boh informarsi
 - [ ] **Blockchain e cryptocurrencies** (scritto + progetto, capire cosa)
 - [ ] **Decision Marking with Constraint programming** non ispira troppissimo, ma pare hw + orale. ai - oriented. Informarsi un po' + english
 - [ ] **DIgital Forensics**. Pare interessante, l'esame é strambo, ma dovrebbe essere progetto discusso + orale. Sembra zero codice che é weird.
