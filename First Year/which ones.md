@@ -12,3 +12,5 @@ sono esclusi i no categorici
 - [ ] **Multimedia Data Management**. Questo é d'ingegneria ma pare DAVVERO interessante. É C'É PURE UN ARGOMENTO IN MENO PER NOI. Esame sembra progetto in lab + discussione.
 - [ ] **Sistemi Context-Aware** non pare brutto. Seminario + progetto.
 - [ ] **UUX**. C'é vitali, ho giá detto tutto. Preferibile starci alla larga come la peste.
+---
+12 cfu mat/08
