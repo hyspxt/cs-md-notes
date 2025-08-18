@@ -6,5 +6,5 @@ sono esclusi i no categorici
 - [ ] **DIgital Forensics**. Pare interessante, l'esame é strambo, ma dovrebbe essere progetto discusso + orale. Sembra zero codice che é weird.
 - [ ] **Lab di realtá virtuale e realtá aumentata**. Sembra duro come la roccia ma fattualmente spendibilitá vicina allo zero boh informarsi. Progetto medio-lungo pare.
 - [ ] **Simulazione di sistemi**. Informarsi perché non ho capito di che tratta. Comunque stesse modalitá di calcolo numerico. E infatti la prof é...
-- [ ] f
+- [ ] **Calcolo parallelo**. É piú HPC in realtá
 - [ ] f
