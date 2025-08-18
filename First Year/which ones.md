@@ -10,4 +10,4 @@ sono esclusi i no categorici
 - [ ] **Calcolo parallelo**. É piú HPC in realtá. Meh. Scritto (crocette!?)+ progetto.
 - [ ] **Computer Vision**. Orale-Articolo + Orale. Pare un esame molto lungo e con molta teoria (in maniera sbilanciata rispetto al carico.
 - [ ] **Multimedia Data Management**. Questo é d'ingegneria ma pare DAVVERO interessante. É C'É PURE UN ARGOMENTO IN MENO PER NOI. Esame sembra progetto in lab + discussione.
-- [ ] Siste
+- [ ] **Sistemi Context-Aware** non pare brutto. Seminario + progetto.
