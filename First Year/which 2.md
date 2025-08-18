@@ -1,5 +1,5 @@
 24 cfu inf/01
-- [ ] NLP? 
+- [ ] NLP? it's in english and could be only project + discussion
 - [ ] f
 - [ ] f
 - [ ] f
