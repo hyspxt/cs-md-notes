@@ -11,3 +11,4 @@ sono esclusi i no categorici
 - [ ] **Computer Vision**. Orale-Articolo + Orale. Pare un esame molto lungo e con molta teoria (in maniera sbilanciata rispetto al carico.
 - [ ] **Multimedia Data Management**. Questo é d'ingegneria ma pare DAVVERO interessante. É C'É PURE UN ARGOMENTO IN MENO PER NOI. Esame sembra progetto in lab + discussione.
 - [ ] **Sistemi Context-Aware** non pare brutto. Seminario + progetto.
+- [ ] **UUX**. C'é vitali, ho giá detto tutto. Preferibile starci alla larga come la peste.
