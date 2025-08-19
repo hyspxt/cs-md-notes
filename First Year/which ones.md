@@ -14,4 +14,5 @@ sono esclusi i no categorici
 - [ ] **UUX**. C'é vitali, ho giá detto tutto. Preferibile starci alla larga come la peste.
 ---
 12 cfu mat/08
-- [ ] Computer Graphics. Progetto, non c'é molta scelta in realtá, ma progetto + discussione,.
+- [x] **Computer Graphics**. Progetto, non c'é molta scelta in realtá, ma progetto + discussione. <u>SECONDO SEMESTRE</u>.
+- [ ] 
