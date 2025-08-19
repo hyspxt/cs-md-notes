@@ -15,4 +15,5 @@ sono esclusi i no categorici
 ---
 12 cfu mat/08
 - [x] **Computer Graphics**. Progetto, non c'é molta scelta in realtá, ma progetto + discussione. <u>SECONDO SEMESTRE</u>.
-- [ ] Fondamenti logici dell'informatica. Coen + altro. É un orale singolo (su due moduli ma é da valutare)
+- [ ] Fondamenti logici dell'informatica. Coen + altro. É un orale singolo (su due moduli ma é da valutare).
+- [ ] Computational Imaging. Loli.
