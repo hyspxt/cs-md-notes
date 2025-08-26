@@ -1,6 +1,6 @@
 24 cfu inf/01
 sono esclusi i no categorici
-- [ ] **NLP** it's in english and could be only project + discussion
+- [ ] **NLP** it's in english and could be only project + discussion PERIODO 1
 - [ ] **Architetture Software a Microservizi**. boh informarsi
 - [ ] **Blockchain e cryptocurrencies** (scritto + progetto, capire cosa)
 - [ ] **Decision Marking with Constraint programming** non ispira troppissimo, ma pare hw + orale. ai - oriented. Informarsi un po' + english
@@ -16,4 +16,4 @@ sono esclusi i no categorici
 12 cfu mat/08
 - [x] **Computer Graphics**. Progetto, non c'é molta scelta in realtá, ma progetto + discussione. <u>SECONDO SEMESTRE</u>.
 - [ ] **Fondamenti logici dell'informatica.** Coen + altro. É un orale singolo (su due moduli ma é da valutare).
-- [ ] **Computational Imaging**. Loli. Progetto e discussione. Penso sia circa vicino al suo ambito di ricerca con nn + approccio statistico forse?
+- [x] **Computational Imaging**. Loli. Progetto e discussione. Penso sia circa vicino al suo ambito di ricerca con nn + approccio statistico forse?
