@@ -14,6 +14,6 @@ sono esclusi i no categorici
 - [ ] **UUX**. C'é vitali, ho giá detto tutto. Preferibile starci alla larga come la peste.
 ---
 12 cfu mat/08
-- [x] **Computer Graphics**. Progetto, non c'é molta scelta in realtá, ma progetto + discussione. <u>SECONDO SEMESTRE</u>.
+- [x] **Computer Graphics**. Progetto, non c'é molta scelta in realtá, ma progetto + discussione. periodo 2.
 - [ ] **Fondamenti logici dell'informatica.** Coen + altro. É un orale singolo (su due moduli ma é da valutare).
-- [x] **Computational Imaging**. Loli. Progetto e discussione. Penso sia circa vicino al suo ambito di ricerca con nn + approccio statistico forse?
+- [x] **Computational Imaging**. Loli. Progetto e discussione. Penso sia circa vicino al suo ambito di ricerca con nn + approccio statistico forse? periodo 2.
