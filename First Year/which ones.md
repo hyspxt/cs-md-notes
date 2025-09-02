@@ -2,9 +2,9 @@
 sono esclusi i no categorici
 verosimilmente 2 per il primo semestre e altri 2 per il secondo per bilanciare, considerando che i 2 mat/08 sono entrambi al secondo
 - [ ] **NLP** it's in english and could be only project + discussion PERIODO 1
-- [ ] **Architetture Software a Microservizi**. Pare interessante PERIODO 1
-- [ ] **Blockchain e cryptocurrencies** (scritto + progetto, capire cosa)
-- [ ] **Decision Marking with Constraint programming** non ispira troppissimo, ma pare hw + orale. ai - oriented. Informarsi un po' + english
+- [x] **Architetture Software a Microservizi**. Pare interessante PERIODO 1
+- [ ] **Blockchain e cryptocurrencies** (progetto, seminario)
+- [ ] **Decision Making with Constraint programming** non ispira troppissimo, ma pare hw + orale. ai - oriented. Informarsi un po' + english
 - [ ] **Digital Forensics**. Pare interessante, l'esame é strambo, ma dovrebbe essere progetto discusso + orale. Sembra zero codice che é weird.
 - [ ] **Lab di realtá virtuale e realtá aumentata**. Sembra duro come la roccia ma fattualmente spendibilitá vicina allo zero boh informarsi. Progetto medio-lungo pare.
 - [ ] **Simulazione di sistemi**. Informarsi perché non ho capito di che tratta. Comunque stesse modalitá di calcolo numerico. E infatti la prof é...
