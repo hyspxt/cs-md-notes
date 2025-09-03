@@ -1,7 +1,7 @@
 24 cfu inf/01
 sono esclusi i no categorici
 verosimilmente 2 per il primo semestre e altri 2 per il secondo per bilanciare, considerando che i 2 mat/08 sono entrambi al secondo
-- [ ] **NLP** it's in english and could be only project + discussion PERIODO 1
+- [x] **NLP** it's in english and could be only project + discussion PERIODO 1
 - [x] **Architetture Software a Microservizi**. Pare interessante PERIODO 1
 - [ ] **Blockchain e cryptocurrencies** (progetto, seminario)
 - [ ] **Decision Making with Constraint programming** non ispira troppissimo, ma pare hw + orale. ai - oriented. Informarsi un po' + english
