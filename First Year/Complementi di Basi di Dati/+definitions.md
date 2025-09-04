@@ -7,7 +7,8 @@
 
 > [!definition] Definition - DBMS
 > 
-> A <b style="color:red">DBMS</b> (DataBase Management System) is a sw that handles data collections to grant privacy, integrity and efficient
+> A <b style="color:red">DBMS</b> (DataBase Management System) is a sw that handles data collections to grant privacy, integrity and efficiency. Then, a **DB** is a set of data handled by a DBMS.
 >^def-DBMS
 
-Definizione. Un DBMS (Database Management System) é un sistema sw di gestione per collezioni di dati che garantisce privacy, efficienza, affidabilitá (damage control sw/hw) ed efficacia. Un db é un qualsiasi set di dati gestito da un DBMS. Alcuni esempi sono PostgreSQL, MySQL. Questo tipo di gestione dei dati é peró soggetta a ridondanza nel caso gli stessi dati compaiano piú volte nel database e questo puó anche portare a inconsistenza e mismatch.
+
+
