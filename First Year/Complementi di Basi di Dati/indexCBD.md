@@ -1,4 +1,4 @@
 
 ```dataview
-list from "./"
+list from "../"
 sort file.name asc
