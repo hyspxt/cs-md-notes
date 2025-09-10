@@ -1,5 +1,7 @@
 ---
-tags: MOCs
+tags:
+  - MOCs
+  - cbd
 ---
 
 ```folder-index-content

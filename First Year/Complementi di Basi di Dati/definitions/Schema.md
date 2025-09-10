@@ -1,3 +1,4 @@
+
 > [!definition] Definition - Schema
 > 
 > A <b style="color:red">schema of a relationship</b> is a **name** of a relationship $R_{\prime}$ with a set of attributes $A_{1}, ..., A_{n}$, where the relationship is defined as: $$ R(A_1, ..., A_n) $$
