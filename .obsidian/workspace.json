@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs-md-notes/First Year/Complementi di Basi di Dati/Complementi di Basi di Dati.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Complementi di Basi di Dati"
+              "title": "README"
             }
           }
         ]
@@ -191,15 +191,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f44013e115668ef6",
+  "active": "153a1ca1bb6376e2",
   "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "cs-md-notes/First Year/Computer Graphics/Computer Graphics.md",
+    "cs-md-notes/First Year/Intelligenza Artificiale/Intelligenza Artificiale.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Complementi di Basi di Dati.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/2.1 Intro XML.md",
     "Senza nome.base",
     "cs-md-notes/First Year/Intelligenza Artificiale/0. Some info - IA.md",
-    "cs-md-notes/First Year/Computer Graphics/Computer Graphics.md",
     "cs-md-notes/First Year/Computer Graphics/0. Some info - CG.md",
-    "index.md",
-    "cs-md-notes/First Year/Intelligenza Artificiale/Intelligenza Artificiale.md",
     "cs-md-notes/First Year/Computer Graphics",
     "cs-md-notes/First Year/Complementi di Basi di Dati/1.1 Intro Models.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/2.2 Relational Data and XML.md",
@@ -209,7 +211,6 @@
     "cs-md-notes/First Year/Complementi di Basi di Dati/definitions/definitions.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/definitions/DBMS.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/definitions/Schema.md",
-    "cs-md-notes/First Year/Complementi di Basi di Dati/Complementi di Basi di Dati.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Excalidraw.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/highSalaries.png",
     "carbon13.png.md",
