@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7cd28ca796e96c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8bfe49be5f2a117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "153a1ca1bb6376e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs-md-notes/First Year/Complementi di Basi di Dati/Complementi di Basi di Dati.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Complementi di Basi di Dati"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be594e9069e96068",
+    "type": "split",
+    "children": [
+      {
+        "id": "622cd2efd1bf4350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f44013e115668ef6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "7f7f43b61838600c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "9e9db2e1a6785ce3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "f57e0e3b15c2593b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3304dff931b781fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89a1c3e58844b60d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cs-md-notes/First Year/Intelligenza Artificiale/0. Some info - IA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a 0. Some info - IA"
+            }
+          },
+          {
+            "id": "6f3a097bc859cc87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "78bf824248797fcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "a20e1c4cabee2d6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "a0712bda06ded60c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "f44013e115668ef6",
+  "lastOpenFiles": [
+    "cs-md-notes/First Year/Complementi di Basi di Dati/2.1 Intro XML.md",
+    "Senza nome.base",
+    "cs-md-notes/First Year/Intelligenza Artificiale/0. Some info - IA.md",
+    "cs-md-notes/First Year/Computer Graphics/Computer Graphics.md",
+    "cs-md-notes/First Year/Computer Graphics/0. Some info - CG.md",
+    "index.md",
+    "cs-md-notes/First Year/Intelligenza Artificiale/Intelligenza Artificiale.md",
+    "cs-md-notes/First Year/Computer Graphics",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/1.1 Intro Models.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/2.2 Relational Data and XML.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/2.3 XQuery.md",
+    "Senza nome.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/0. Some info - CBD.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/definitions/definitions.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/definitions/DBMS.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/definitions/Schema.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Complementi di Basi di Dati.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Excalidraw.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/highSalaries.png",
+    "carbon13.png.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLGEN.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLGEN.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/carbon13.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Immagine incollata.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/xmlagg_result.png",
+    "Pasted image 20250910014234.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLAGG.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLCONCAT.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLCONCAT.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Drawing 2025-09-10 01.07.47.excalidraw.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLATTRIBUTES.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/carbon10.png",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLFOREST.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLELEMENT.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Drawing 2025-09-09 23.47.56.excalidraw.md",
+    "^sqlmap.md",
+    "^sql.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw",
+    "Excalidraw",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/definitions",
+    "First Year/Complementi di Basi di Dati",
+    "First Year",
+    "cs-md-notes/First Year/attachments",
+    "cs-md-notes/First Year/Intelligenza Artificiale",
+    "cs-md-notes/First Year/Complementi di Basi di Dati"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "accentColor": "#3a7a9c",
+  "enabledCssSnippets": [
+    "custom-callouts"
+  ]
+}

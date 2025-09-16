@@ -1,0 +1,11 @@
+{
+  "toggle-dark-mode:toggle-dark-mode": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}
