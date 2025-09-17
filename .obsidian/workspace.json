@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "cs-md-notes/First Year/which ones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "which ones"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "153a1ca1bb6376e2",
   "lastOpenFiles": [
-    "index.md",
     "README.md",
+    "index.md",
     "cs-md-notes/First Year/Computer Graphics/Computer Graphics.md",
     "cs-md-notes/First Year/Intelligenza Artificiale/Intelligenza Artificiale.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Complementi di Basi di Dati.md",
