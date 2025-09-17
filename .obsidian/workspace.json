@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8bfe49be5f2a117",
+        "id": "11abd5c84d11b9d3",
         "type": "tabs",
         "children": [
           {
-            "id": "153a1ca1bb6376e2",
+            "id": "df5d5f4582c06b5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs-md-notes/First Year/which ones.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "which ones"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -191,8 +177,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "153a1ca1bb6376e2",
+  "active": "df5d5f4582c06b5f",
   "lastOpenFiles": [
+    "cs-md-notes/books/complementi-basi-di-dati/datawarehouse-teoria-e-pratica-della-progettazione_golfarelli2k08.pdf",
+    "cs-md-notes/First Year/which ones.md",
     "README.md",
     "index.md",
     "cs-md-notes/First Year/Computer Graphics/Computer Graphics.md",
@@ -229,8 +217,6 @@
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLFOREST.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLELEMENT.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Drawing 2025-09-09 23.47.56.excalidraw.md",
-    "^sqlmap.md",
-    "^sql.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw",
     "Excalidraw",
     "cs-md-notes/First Year/Complementi di Basi di Dati/definitions",
