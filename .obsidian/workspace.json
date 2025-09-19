@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs-md-notes/First Year/which ones.md",
+                "file": "cs-md-notes/First Year/Natural Language Processing/0. Some info - NLP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "which ones"
+              "title": "0. Some info - NLP"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "df5d5f4582c06b5f",
   "lastOpenFiles": [
+    "cs-md-notes/First Year/which ones.md",
     "README.md",
     "index.md",
     "cs-md-notes/First Year/Natural Language Processing/Senza nome/Senza nome.md",
@@ -198,7 +199,6 @@
     "cs-md-notes/First Year/Computer Graphics/0. Some info - CG.md",
     "cs-md-notes/First Year/templates",
     "cs-md-notes/First Year/Complementi di Basi di Dati/2.1 Intro XML.md",
-    "cs-md-notes/First Year/which ones.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Excalidraw.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/1.1 Intro Models.md",
     "cs-md-notes/First Year/Natural Language Processing",
