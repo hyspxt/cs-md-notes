@@ -1,6 +1,5 @@
 ---
 aliases:
-TAG: nlp
 ---
 ---
 
@@ -8,7 +7,7 @@ TAG: nlp
 
 > [!NOTE] General
 >  - ...
->  - This course corresponds to 6 CFU.
+>  - This course corresponds to X CFU.
 >  - **exam** -> 
 
 > [!NOTE] Course content
