@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs-md-notes/First Year/Natural Language Processing/0. Some info - NLP.md",
+                "file": "cs-md-notes/First Year/templates/Senza nome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Some info - NLP"
+              "title": "Senza nome"
             }
           }
         ]
@@ -178,20 +178,25 @@
       "command-palette:Apri riquadro comandi": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "df5d5f4582c06b5f",
   "lastOpenFiles": [
-    "cs-md-notes/First Year/which ones.md",
+    "cs-md-notes/First Year/templates/templates.md",
+    "cs-md-notes/First Year/templates/Senza nome.md",
+    "cs-md-notes/First Year/Computer Graphics/0. Some info - CG.md",
+    "cs-md-notes/First Year/templates",
     "cs-md-notes/First Year/Complementi di Basi di Dati/0. Some info - CBD.md",
+    "cs-md-notes/First Year/Intelligenza Artificiale/0. Some info - IA.md",
     "cs-md-notes/First Year/Natural Language Processing/0. Some info - NLP.md",
-    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Excalidraw.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/2.1 Intro XML.md",
+    "cs-md-notes/First Year/which ones.md",
+    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Excalidraw.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/1.1 Intro Models.md",
     "cs-md-notes/First Year/Natural Language Processing/17-09-25.md",
     "index.md",
-    "cs-md-notes/First Year/Intelligenza Artificiale/0. Some info - IA.md",
     "cs-md-notes/First Year/Natural Language Processing/Natural Language Processing.md",
     "cs-md-notes/First Year/Natural Language Processing",
     "cs-md-notes/books/complementi-basi-di-dati/datawarehouse-teoria-e-pratica-della-progettazione_golfarelli2k08.pdf",
@@ -200,7 +205,6 @@
     "cs-md-notes/First Year/Intelligenza Artificiale/Intelligenza Artificiale.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Complementi di Basi di Dati.md",
     "Senza nome.base",
-    "cs-md-notes/First Year/Computer Graphics/0. Some info - CG.md",
     "cs-md-notes/First Year/Computer Graphics",
     "cs-md-notes/First Year/Complementi di Basi di Dati/2.2 Relational Data and XML.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/2.3 XQuery.md",
@@ -219,15 +223,12 @@
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLAGG.png",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLCONCAT.png",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLCONCAT.md",
-    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/Drawing 2025-09-10 01.07.47.excalidraw.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLATTRIBUTES.png",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/carbon10.png",
-    "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw/XMLFOREST.md",
     "cs-md-notes/First Year/Complementi di Basi di Dati/Excalidraw",
     "Excalidraw",
     "cs-md-notes/First Year/Complementi di Basi di Dati/definitions",
     "First Year/Complementi di Basi di Dati",
-    "First Year",
-    "cs-md-notes/First Year/attachments"
+    "First Year"
   ]
 }
